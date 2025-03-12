@@ -66,7 +66,7 @@ Here’s a deep dive into my standout projects—each a testament to my technica
 
 ### [Global Sales & Services Platform (GSSP) - Channel API](https://github.com/surajpattanaik/gssp-channel-api)  
 *MetLife | 09/2023 - Present*  
-- Contributed to a high-performance platform mediating data exchange for global insurance services.
+- Contributed to a high-performance platform mediating data exchange between various user-facing apps and backend systems for global insurance services.
 - **Tech Stack**: Microservices, Nano Framework (Spring Boot), Groovy, Java, Azure DevOps, Git, JUnit/Mockito.
 - **Contributions**: Developed REST APIs, transformed REST-SOAP requests/responses for compatibility (e.g., IVR, web apps), and deployed via Azure pipelines.
 - **Impact**: Enabled seamless integration across diverse platforms, earning a Key Contributor Award (2024).
