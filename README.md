@@ -61,13 +61,13 @@ Here’s a deep dive into my standout projects—each a testament to my technica
 *MetLife Capstone | 11/2023 - 02/2024*  
 - Developed a full-stack application to manage flight schedules, bookings, and airport operations.
 - **Tech Stack**: Spring Boot, Microservices, Angular, TypeScript, MySQL, Docker Compose.
-- **Contributions**: Designed REST APIs for backend logic, built a responsive Angular frontend, and deployed via Docker—earning the highest capstone rating for scalability and efficiency.
-- **Impact**: Showcased end-to-end development skills, from database design to UI, under tight deadlines.
+- **Contributions**: Designed REST APIs for backend logic, built a responsive Angular frontend and deployed via Docker—earning the highest capstone rating for scalability and efficiency.
+- **Impact**: Showcased end-to-end development skills, from backend - database - UI to containerization, under tight deadlines.
 
 ### [Global Sales & Services Platform (GSSP) - Channel API](https://github.com/surajpattanaik/gssp-channel-api)  
 *MetLife | 09/2023 - Present*  
-- Built a high-performance microservice mediating data exchange for global insurance services.
-- **Tech Stack**: Nano Framework (Spring Boot), Groovy, Java, Azure DevOps, Git, JUnit/Mockito.
+- Contributed to a high-performance platform mediating data exchange for global insurance services.
+- **Tech Stack**: Microservices, Nano Framework (Spring Boot), Groovy, Java, Azure DevOps, Git, JUnit/Mockito.
 - **Contributions**: Developed REST APIs, transformed REST-SOAP requests/responses for compatibility (e.g., IVR, web apps), and deployed via Azure pipelines.
 - **Impact**: Enabled seamless integration across diverse platforms, earning a Key Contributor Award (2024).
 
