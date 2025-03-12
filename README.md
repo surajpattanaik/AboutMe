@@ -1,7 +1,7 @@
 # 🚀 Suraj Pattanaik
 ### Java Full-Stack Developer | Java, Spring Boot, Microservices & Angular | Cloud & DevOps Enthusiast
 
-A passionate Java Developer with over 4 years of hands-on experience crafting robust, scalable backend solutions using Java, Spring Boot, and Microservices architecture. From building RESTful APIs at TCS to transforming complex data flows at MetLife, I thrive on solving real-world challenges with clean code and innovative tools. Recently, I’ve expanded into full-stack development with Angular and TypeScript, containerized apps with Docker, and streamlined deployments with Azure DevOps—culminating in a top-ranked full-stack capstone project. Recognized for quick learning, impactful deliverables, and a relentless drive to grow, I’m eager to push boundaries in full-stack and cloud-native development.
+A passionate Java Developer with over 4 years of hands-on experience crafting robust, scalable backend solutions using Java, Spring Boot, and Microservices architecture. From building RESTful APIs at TCS to transforming complex data flows at MetLife, I thrive on solving real-world challenges with clean code and innovative tools. Recently, I’ve expanded into full-stack development with Angular and TypeScript, containerized apps with Docker, and streamlined deployments with Azure DevOps —culminating in a top-ranked full-stack capstone project. Recognized for quick learning, impactful deliverables, and a relentless drive to grow, I’m eager to push boundaries in full-stack and cloud-native development.
 
 ---
 
@@ -20,12 +20,15 @@ I bring a versatile toolkit honed over 4+ years, blending backend mastery with e
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) 
 ![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
+![Microservices](https://img.shields.io/badge/Microservices-%23000000.svg?style=for-the-badge&logo=serverless&logoColor=white) 
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![Groovy](https://img.shields.io/badge/Groovy-%23E69F56.svg?style=for-the-badge&logo=groovy&logoColor=white) 
 - **Java**: Core expertise in Java 8+, building scalable APIs and microservices.
-- **Spring Ecosystem**: Deep knowledge of Spring Boot, Spring Cloud, and JPA/Hibernate for backend development.
-- **Angular**: Frontend skills used in building a full-stack capstone project @Metlife, crafting responsive UIs with TypeScript.
-- **Groovy**: Experience with Groovy-based microservices in MetLife’s GSSP project.
+- **Spring Ecosystem**: Deep knowledge of Spring Boot, Spring Cloud, and JPA/Hibernate for backend mastery.
+- **Microservices**: Designed and optimized distributed systems at TCS and MetLife.
+- **Angular & TypeScript**: Built responsive UIs for MetLife’s full-stack capstone.
+- **Groovy**: Enhanced GSSP microservices with dynamic scripting.
 
 ### Databases & APIs
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
@@ -96,7 +99,7 @@ Here’s a deep dive into my standout projects—each a testament to my technica
 ---
 
 ## 🌟 Interests & Goals
-- **Building Scalable Solutions**: Love crafting apps that handle real-world scale, from backend to frontend.
+- **Building Scalable Solutions**: Crafting apps that handle real-world scale, from backend to frontend.
 - **Exploring DevOps & Cloud**: Diving deeper into Docker, Kubernetes, and Azure to master modern deployment.
 - **Continuous Learning**: Targeting advanced full-stack and cloud certifications in 2025.
 
