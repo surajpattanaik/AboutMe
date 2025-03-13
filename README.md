@@ -20,12 +20,13 @@ I bring a versatile toolkit honed over 4+ years, blending backend mastery with e
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) 
 ![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
+![Spring Security](https://img.shields.io/badge/Spring%20Cloud-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
 ![Microservices](https://img.shields.io/badge/Microservices-%23000000.svg?style=for-the-badge&logo=serverless&logoColor=white) 
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![Groovy](https://img.shields.io/badge/Groovy-%23E69F56.svg?style=for-the-badge&logo=groovy&logoColor=white) 
 - **Java**: Core expertise in Java 8+, building scalable APIs and microservices.
-- **Spring Ecosystem**: Deep knowledge of Spring Boot, Spring Cloud, and JPA/Hibernate for backend mastery.
+- **Spring Ecosystem**: Deep knowledge of Spring Boot, Spring Cloud, Spring Security and JPA/Hibernate for backend mastery.
 - **Microservices**: Designed and optimized distributed systems at TCS and MetLife.
 - **Angular & TypeScript**: Built responsive UIs for MetLife’s full-stack capstone.
 - **Groovy**: Enhanced GSSP microservices with dynamic scripting.
@@ -63,7 +64,7 @@ Here’s a deep dive into my standout projects—each a testament to my technica
 ### [Airport Management System](https://github.com/surajpattanaik/airport-management-system)  
 *MetLife Capstone | 11/2023 - 02/2024*  
 - Developed a full-stack application to manage flight schedules, bookings, and airport operations.
-- **Tech Stack**: Java8, Spring Boot, Microservices, Angular, TypeScript, MySQL, Docker Compose.
+- **Tech Stack**: Java8, Spring Boot, Spring Security, Microservices, Angular, TypeScript, MySQL, Docker Compose.
 - **Contributions**: Designed REST APIs for backend logic, built a responsive Angular frontend and deployed via Docker—earning the highest capstone rating for scalability and efficiency.
 - **Impact**: Showcased end-to-end development skills, from backend - database - UI to containerization, under tight deadlines.
 
