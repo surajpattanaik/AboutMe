@@ -1,14 +1,7 @@
 # 🚀 Suraj Pattanaik
 ### Java Full-Stack Developer | Java, Spring Boot, Microservices & Angular | Cloud & DevOps Enthusiast
 
-A passionate Java Developer with over 4 years of hands-on experience crafting robust, scalable backend solutions using Java, Spring Boot, and Microservices architecture. From building RESTful APIs at TCS to transforming complex data flows at MetLife, I thrive on solving real-world challenges with clean code and innovative tools. Recently, I’ve expanded into full-stack development with Angular and TypeScript, containerized apps with Docker, and streamlined deployments with Azure DevOps —culminating in a top-ranked full-stack capstone project. Recognized for quick learning, impactful deliverables, and a relentless drive to grow, I’m eager to push boundaries in full-stack and cloud-native development.
-
----
-
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suraj-kumar-pattanaik)  
-📧 Email: surajkumarpattanaik3@gmail.com  
-🌍 Location: Bhubaneswar, India
+A dynamic Java Developer with 4+ years crafting high-performance backend systems using Java, Spring Boot, and Microservices. I’ve delivered RESTful APIs, tackled intricate data integrations, and optimized solutions for real-world impact—all with a focus on quality code. Lately, I’ve expanded into full-stack with Angular and TypeScript, containerized with Docker, and streamlined workflows via Azure DevOps, earning top marks for a full-stack capstone. Recognized for adaptability and strong deliverables, I’m eager to push limits in full-stack and cloud-native development.
 
 ---
 
@@ -120,4 +113,7 @@ Here’s a deep dive into my standout projects—each a testament to my technica
 
 ---
 
-<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suraj-kumar-pattanaik)  
+📧 Email: surajkumarpattanaik3@gmail.com  
+🌍 Location: Bhubaneswar, India
