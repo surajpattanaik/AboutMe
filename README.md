@@ -13,7 +13,7 @@ I bring a versatile toolkit honed over 4+ years, blending backend mastery with e
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) 
 ![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
-![Spring Security](https://img.shields.io/badge/Spring%20Cloud-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
+![Spring Security](https://img.shields.io/badge/Spring%20Security-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
 ![Microservices](https://img.shields.io/badge/Microservices-%23000000.svg?style=for-the-badge&logo=serverless&logoColor=white) 
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
